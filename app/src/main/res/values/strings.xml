@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Unit3Pathway3SevenDaysApp</string>
+
+    <string name="day1">1.Day</string>
+    <string name="day1Title">Train Station</string>
+    <string name="day1Description">Some people is waitting the train to go work or somewhere in the morning</string>
+
+    <string name="day2">2.Day</string>
+    <string name="day2Title">Under the Rain</string>
+    <string name="day2Description">A man is walking on the street and the weather is rain</string>
+
+    <string name="day3">3.Day</string>
+    <string name="day3Title">Children </string>
+    <string name="day3Description">A child is taking photo his friend in front of the pool</string>
+
+    <string name="day4">4.Day</string>
+    <string name="day4Title">Sleep </string>
+    <string name="day4Description">A man is sleeping in the small room</string>
+
+    <string name="day5">5.Day</string>
+    <string name="day5Title">Garage </string>
+    <string name="day5Description">I am not sure , I think that is a garage and there are some goods</string>
+
+    <string name="day6">6.Day</string>
+    <string name="day6Title">Wait on a line </string>
+    <string name="day6Description">In Japan, People are waiting on the market for take something </string>
+
+    <string name="day7">7.Day</string>
+    <string name="day7Title">Woman and Man </string>
+    <string name="day7Description">Man and woman are talking each other about love</string>
+    <string name="top_bar">7 Days App</string>
+</resources>
